@@ -3,7 +3,7 @@ let textManager = back.getTextManager();
 let cat_list = textManager.getTextList();
 
 let ui = {
-    cat_item: $('<button class="cat_item"><div class="cat_item_text"></div><div class="cat_item_delete"><img src="../images/close.svg"></div></button>')
+    cat_item: $('<button class="cat_item"><div class="cat_item_text"></div><div class="cat_item_delete"><img src="../images/close.svg"></div><div id="divider"></div></button>')
 };
 
 function init() {

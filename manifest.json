@@ -3,16 +3,16 @@
   "name": "Copy Cat",
   "short_name": "Copy Cat",
   "description": "Manage every thing you copy on web pages",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "browser_action": {
-    "default_icon": "images/cat_48.png",
+    "default_icon": "images/copy_cat_48.png",
     "default_title": "Piper Crawler",
     "default_popup": "html/popup.html"
   },
   "icons": {
-    "16": "images/cat_16.png",
-    "48": "images/cat_48.png",
-    "128": "images/cat_128.png"
+    "16": "images/copy_cat_16.png",
+    "48": "images/copy_cat_48.png",
+    "128": "images/copy_cat_128.png"
   },
   "permissions": [
     "tabs",
